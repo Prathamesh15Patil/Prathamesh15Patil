@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey github comm, it's <a href="#">Prathamesh</a>!</h1>
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=800&color=00F5D4&width=500&lines=Computer+Science+Engineer+in+progress;Web+Developer+%7C+UI+Animator;Lover+of+Clean+Code+and+Smooth+Motion" alt="Typing Animation" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=800&color=00F5D4&width=500&lines=<--Computer+Science+Engineer+in+progress..-->;<--Web+Developer+%7C+UI+Animator-->;<--Lover+of+Clean+Code+and+Smooth+Motion-->" alt="Typing Animation" />
 </div>
 
 <p align="center">
@@ -11,16 +11,16 @@
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
       <p>
-  🎓 I'm a <strong>Computer Science Engineering student</strong> exploring the ever-evolving tech landscape.<br><br>
-  🚀 Passionate about crafting <strong>animated, interactive web experiences</strong> — where code meets creativity.<br><br>
-  💻 Currently diving deep into <strong>React</strong>, <strong>GSAP</strong>, and <strong>Framer Motion</strong> to build smooth, visually engaging UIs.<br><br>
-  ☕ Balancing design & logic — when not coding, I’m probably solving <strong>DSA in Java</strong> or experimenting with new frontend tricks.<br><br>
+  --> I'm a <strong>Computer Science Engineering student</strong> exploring the ever-evolving tech landscape.<br><br>
+  --> Passionate about crafting <strong>animated, interactive web experiences</strong> — where code meets creativity.<br><br>
+  --> Currently diving deep into <strong>React</strong>, <strong>GSAP</strong>, and <strong>Framer Motion</strong> to build smooth, visually engaging UIs.<br><br>
+  --> Balancing design & logic — when not coding, I’m probably solving <strong>DSA in Java</strong> or experimenting with new frontend tricks.<br><br>
   ✨ Motto: <em>"Make it move. Make it meaningful."</em>
   </p>
     </td>
@@ -50,6 +50,7 @@ Here are some of the technologies I'm actively working with and learning:
 ### ⚛️ Frameworks & Libraries
 <p>
   <img src="https://vectorseek.com/wp-content/uploads/2023/08/React-Logo-Vector.svg-.png" alt="React" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="React" width="60"/>
   <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" alt="Node.js" width="60"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP" width="60" />
@@ -60,6 +61,14 @@ Here are some of the technologies I'm actively working with and learning:
 ### 🗄️ Databases
 <p>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png" alt="MongoDB" width="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="60"/>
+</p>
+
+### 🧰 Utilities & Tools  
+<p>
+  <img src="https://camo.githubusercontent.com/7f98d6d3f1855b7d3d2d63c78be3958cefee9ec5434cd3c81c86f35e2873b114/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f67697068792e676966" alt="vsCode" width="60"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" width="60" />
+  <img src="https://securityonline.info/wp-content/uploads/2024/07/MongoDB_Fores-Green.svg_.png" alt="MongoDB Compass" width="140"/>
 </p>
 
 ---
