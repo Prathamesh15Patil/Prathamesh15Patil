@@ -44,7 +44,7 @@ Here are some of the technologies I'm actively working with and learning:
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsql-e57252a8-9e43-4673-8853-cf3b64d6bba0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NmRkY2Y1OS0zY2I0LTRmM2QtODUxZS05MWVjODZlNjc4NzEvZGY5eHNxbC1lNTcyNTJhOC05ZTQzLTQ2NzMtODg1My1jZjNiNjRkNmJiYTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8qwr_h4ZxPqP_ZLoP_x4J7z5uc1aZ18VrnVsHtFFdw0" alt="Java" width="60" />
   <img src="https://miro.medium.com/1*-tOldEbfjijxn9VqZeULqg.gif" alt="JavaScript" width="60" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZFGdMl_Y8qOwfWGr3_DaPOc3z2loTt14Ew&s" alt="C" width="60"/>
-  <img src="https://camo.githubusercontent.com/9b4b640000b1e97a45b5f4cbe434cfba40031a0a34e32d5417c20e78fd370980/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65612f66662f61322f65616666613239666638396562316232646438653436396135653161636636662e676966" alt="Python" width="80" />
+  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" alt="Python" width="80" />
 </p>
 
 ### ⚛️ Frameworks & Libraries
