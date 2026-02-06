@@ -89,7 +89,7 @@ Here are some of the technologies I'm actively working with and learning:
   <a href="https://www.linkedin.com/in/prathamesh-patil-7752b5360/" target="_blank">
     <img src="https://media.licdn.com/dms/image/v2/C4E22AQHnLz77sbPDVA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1623860902381?e=2147483647&v=beta&t=thPWpaL_XVRi6cbZowyclAtb6rtHiw2PS8H-XTRl78g" alt="LinkedIn" width="60" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="prathameshjpatil15@gmail.com" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" width="60"/>
   </a>
   <!-- You can add other platforms like Twitter, Portfolio, etc. if you have them -->
