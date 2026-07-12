@@ -1,6 +1,10 @@
 <div align="center">
   <h1>👋 Hey github comm, it's <a href="#">Prathamesh</a>!</h1>
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=800&color=00F5D4&width=500&lines=<--Computer+Science+Engineer+in+progress..-->;<--Web+Developer+%7C+UI+Animator-->;<--Lover+of+Clean+Code+and+Smooth+Motion-->" alt="Typing Animation" />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Computer+Science+Engineering+in+progress...;%E2%9A%99%EF%B8%8F+Full+Stack+Developer;%F0%9F%9A%80+Building+Systems+That+Solve+Real+Problems;%F0%9F%A7%A0+Learning+by+Building"
+    alt="Typing Animation"
+  />
 </div>
 
 <p align="center">
@@ -13,23 +17,27 @@
 
 ## 👤 About Me
 
+## 👤 About Me
+
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>
-  --> I'm a <strong>Computer Science Engineering student</strong> exploring the ever-evolving tech landscape.<br><br>
-  --> Passionate about crafting <strong>animated, interactive web experiences</strong> — where code meets creativity.<br><br>
-  --> Currently diving deep into <strong>React</strong>, <strong>GSAP</strong>, and <strong>Framer Motion</strong> to build smooth, visually engaging UIs.<br><br>
-  --> Balancing design & logic — when not coding, I’m probably solving <strong>DSA in Java</strong> or experimenting with new frontend tricks.<br><br>
-  ✨ Motto: <em>"Make it move. Make it meaningful."</em>
-  </p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <!-- GIF related to coding/animation/web dev -->
-      <!-- Let's use a GIF that shows someone coding or a cool animation effect -->
-      <img src="https://i.pinimg.com/originals/6e/f6/2f/6ef62fb86557cbbaa0cdcdd2a11bfd7e.gif" alt="Coding GIF" width="100%" height="100%"/>
-      <!-- Or a cool web animation like this: https://media.giphy.com/media/l4FGyYJ5Tf61vRzT2/giphy.gif -->
-    </td>
+
+I'm a **Computer Science Engineering student** who enjoys building software around **real-world problems** rather than around technologies.
+
+My projects have taken me from developing **interactive web experiences** to building **real-time collaborative systems**, **backend automation workflows**, and **Docker-based execution environments**. Every project has taught me something new because I enjoy learning whatever technology the problem demands instead of limiting myself to what I already know.
+
+Currently, I'm sharpening my **DSA skills in Java**, exploring **system design**, and building full-stack applications that combine thoughtful user experiences with reliable backend systems.
+
+✨ **Motto:** *"Understand the problem. Build the right solution."*
+
+  </td>
+
+  <td width="40%" valign="top" align="center">
+
+<img src="https://i.pinimg.com/originals/6e/f6/2f/6ef62fb86557cbbaa0cdcdd2a11bfd7e.gif" width="100%"/>
+
+  </td>
   </tr>
 </table>
 
